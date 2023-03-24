@@ -20,7 +20,7 @@ I love coding whether it is **random things**, **group projects** or **minecraft
 
                    - Agric (my own mod introducing a lot of agricultural related mechanics)
     
-    - Preffered ide🕹: Visual Studio Code , Intelij IDEA 
+    - Preffered ide📺: Visual Studio Code , Intelij IDEA 
 
 <!--
 **Thepigcat76/Thepigcat76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
