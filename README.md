@@ -6,7 +6,7 @@ I love coding whether it is **random things**, **group projects** or **minecraft
 
 **More about me:**
 
-    - Languages💻: Java🤖, Python🐍, HTML🌎 (I didn’t want to make another category so HTML is here. Shut up!)
+    - Languages💻: Java (preferrably kotlin)🤖, Python🐍, HTML🌎 (I didn’t want to make another category so HTML is here. Shut up!)
 
     - Pronouns🙋‍♂️: He/Him (Sorry to dissapoint you but I am not a furry)
 
