@@ -22,4 +22,4 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     
     - Preffered ide📺: Visual Studio Code , Intelij IDEA
     
-    - Currently learning👨‍🔬: Flutter (Dart), Kotlin
+    - Currently learning👨‍🔬: Go , Kotlin
