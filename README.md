@@ -19,6 +19,12 @@ I love coding whether it is **random things**, **group projects** or **minecraft
                    - Avaritia-Reforged-Port (the port of the popular mod avaritia for minecraft 1.19.2),
 
                    - Agric (my own mod introducing a lot of agricultural related mechanics)
+                   
+    - Future Projects: - A discord bot
+    
+                       - A game framework
+                       
+                       - A simple programming language
     
     - Preffered ide📺: Visual Studio Code , Intelij IDEA
     
