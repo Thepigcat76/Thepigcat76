@@ -21,10 +21,10 @@ I love coding whether it is **random things**, **group projects** or **minecraft
                    - Agric (my own mod introducing a lot of agricultural related mechanics)
                    
     - Future Projects: - A discord bot
+                        
+                       - A 3d openworld factory/automation game
     
                        - A game framework
-                       
-                       - A simple programming language
     
     - Preffered ide📺: Visual Studio Code , Intelij IDEA
     
