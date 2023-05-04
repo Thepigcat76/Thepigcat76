@@ -29,3 +29,5 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     - Preffered ide📺: Visual Studio Code , Intelij IDEA
     
     - Currently learning👨‍🔬: Go , Kotlin
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76)](https://github.com/anuraghazra/github-readme-stats)
