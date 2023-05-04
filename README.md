@@ -30,4 +30,4 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     
     - Currently learning👨‍🔬: Go , Kotlin
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
