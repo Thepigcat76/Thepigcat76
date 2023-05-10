@@ -28,6 +28,6 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     
     - Preffered ide📺: Visual Studio Code , Intelij IDEA
     
-    - Currently learning👨‍🔬: Kotlin, Dart (and flutter)
+    - Currently learning👨‍🔬: Kotlin, Dart (and flutter), Go
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
