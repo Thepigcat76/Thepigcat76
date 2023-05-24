@@ -24,7 +24,7 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     
                        - A game framework
     
-    - Preffered ide📺: Visual Studio Code , Intelij IDEA
+    - Preffered ide📺: Visual Studio Code , Intelij IDEA, Void (soonTM)
     
     - Currently learning👨‍🔬: Kotlin, Dart (and flutter), Go, Rust
     
