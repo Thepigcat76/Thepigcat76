@@ -14,11 +14,9 @@ I love coding whether it is **random things**, **group projects** or **minecraft
 
     - Projects🔨: - Yet-to-be-named-game (a python rpg, 2d runner game), 
 
-                   - Industrial-Reborn-Updated (the continuation of a popular minecraft tech mod),
-
-                   - Avaritia-Reforged-Port (the port of the popular mod avaritia for minecraft 1.19.2),
-
-                   - Agric (my own mod introducing a lot of agricultural related mechanics)
+                   - Void (a text editor and ide written in rust)
+                   
+                   - Aid (an ai built with tensorflow for mobile devices using dart and flutter)
                    
     - Future Projects: - A discord bot
                         
