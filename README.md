@@ -18,7 +18,7 @@ I love coding whether it is **random things**, **group projects** or **minecraft
                    
                    - Aid (an ai built with tensorflow for mobile devices using dart and flutter)
                    
-    - Future Projects: - A discord bot
+    - Future Projects⭐️: - A discord bot
                         
                        - A 3d openworld factory/automation game
     
