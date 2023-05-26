@@ -16,7 +16,7 @@ I love coding whether it is **random things**, **group projects** or **minecraft
 
                    - Void (a text editor and ide written in rust)
                    
-                   - Aid (an ai built with tensorflow for mobile devices using dart and flutter)
+                   - Coda-Rover a tool to learn coding with a robot karol like environment
                    
     - Future Projects⭐️: - A discord bot
                         
