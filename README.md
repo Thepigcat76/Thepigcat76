@@ -28,4 +28,6 @@ I love coding whether it is **random things**, **group projects** or **minecraft
     
     - Currently learning👨‍🔬: Kotlin, Dart (and flutter), Go, Rust
     
+[![Live feed](https://vstatus.rubenk.com.np/api/status?theme=dark&timefor=file)](https://github.com/slithery0/vstatus)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
