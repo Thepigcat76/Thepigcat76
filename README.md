@@ -18,11 +18,11 @@ I love coding whether it is **random things**, **group projects** or **minecraft
                    
                    - Coda-Rover a tool to learn coding with a robot karol like environment
                    
-    - Future Projects⭐️: - A discord bot
-                        
-                       - A 3d openworld factory/automation game
+    - Future Projects⭐️: - A 3d openworld factory/automation game
     
-                       - A game framework
+                          - A scripting language
+                          
+                          - A discord bot
     
     - Preffered ide📺: Visual Studio Code , Intelij IDEA, Void (soonTM)
     
