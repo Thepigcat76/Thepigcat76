@@ -16,4 +16,6 @@ And a few more minecraft mods...
 
 1. Python (at [@MuffinGroup](https://github.com/MuffinGroup))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Thepigcat76&theme=algolia&show_icons=true)](https://muffingroup.github.io/MuffinSite/)
