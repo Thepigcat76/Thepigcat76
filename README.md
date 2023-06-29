@@ -2,6 +2,12 @@
 
 I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good artist.
 
+# Skills
+
+Languages: Kotlin, Java, Rust, Python, Javascript (the basics)
+
+Libraries/frameworks: Pygame, opengl (learning), JavaFx, Swing
+
 # My projects
 
 Lead Dev [@MuffinGroup](https://github.com/MuffinGroup), [@Quantum-forge](https://github.com/Quantum-forge)
