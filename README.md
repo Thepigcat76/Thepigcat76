@@ -4,7 +4,7 @@ I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good ar
 
 # Skills
 
-Languages: Kotlin, Java, Rust, Python, Javascript (the basics)
+Languages: Rust, Kotlin, Java, Python, Javascript (the basics)
 
 Libraries/frameworks: Pygame, opengl (learning), JavaFx, Swing
 
