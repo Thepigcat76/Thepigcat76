@@ -14,6 +14,8 @@ Lead Dev [@MuffinGroup](https://github.com/MuffinGroup)
 
 **Personal:**
 
-Coda Rover (coro) an educational programming language and development environment for teaching programming.
+[Coda Rover](https://github.com/Thepigcat76/coro-interpreter) (coro) an educational programming language and development environment for teaching programming.
+
+[Go Outside](https://github.com/Thepigcat76/go_outside) A small 2d game written in go with sdl2
 
 And a few more minecraft mods...
