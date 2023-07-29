@@ -6,7 +6,7 @@ I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good ar
 
 Languages: Rust, Kotlin, Go, Java, Python
 
-Libraries/frameworks: Pygame, opengl, JavaFx, Swing, SDL2
+Libraries/frameworks: SDL2 (also pygame), opengl, JavaFx, Swing
 
 # My projects
 
