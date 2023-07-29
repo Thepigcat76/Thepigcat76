@@ -25,3 +25,5 @@ And a few more minecraft mods...
 Language design, interpreters and compilers
 
 3D-rendering and game-dev
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepigcat76&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
