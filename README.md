@@ -19,3 +19,9 @@ Lead Dev [@MuffinGroup](https://github.com/MuffinGroup)
 [Go Outside](https://github.com/Thepigcat76/go_outside) A small 2d game written in go with sdl2
 
 And a few more minecraft mods...
+
+**Interested in:**
+
+Language design, interpreters and compilers
+
+3D-rendering and game-dev
