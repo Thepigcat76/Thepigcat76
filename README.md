@@ -4,7 +4,7 @@ I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good ar
 
 # Skills
 
-Languages: Rust, Kotlin, Go, Java, Python
+Languages: Rust, [Nexus](https://github.com/Isible/nexus), Kotlin, Go, Java, Python
 
 Libraries/frameworks: SDL2 (also pygame), opengl, JavaFx, Swing
 
