@@ -10,7 +10,7 @@ Libraries/frameworks: SDL2 (also pygame), opengl, JavaFx, Swing
 
 # My projects
 
-Lead Dev [@MuffinGroup](https://github.com/MuffinGroup)
+Lead Dev [@MuffinGroup](https://github.com/Isible)
 
 **Personal:**
 
