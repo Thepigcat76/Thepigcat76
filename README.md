@@ -6,15 +6,15 @@ I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good ar
 
 Languages: Rust, Go, [Nexus](https://github.com/Isible/nexus), Typescript, Java, Kotlin, Python
 
-Libraries/frameworks: SDL2 (also pygame), opengl, JavaFx, Swing, Qwik
+Libraries/frameworks: SDL2, Qwik. I write my own frameworks ;)
 
 # My projects
 
-Lead Dev [@MuffinGroup](https://github.com/Isible)
+Lead Dev [@Isible](https://github.com/Isible)
 
 **Personal:**
 
-[Coda Rover](https://github.com/Thepigcat76/coro-interpreter) (coro) an educational programming language and development environment for teaching programming.
+[Surtur](https://github.com/Thepigcat76/surtur) A c-build tool inspired by cargo
 
 [Go Outside](https://github.com/Thepigcat76/go_outside) A small 2d game written in go with sdl2
 
