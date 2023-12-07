@@ -6,7 +6,7 @@ I am thepigcat76 (also known as thepigcow69). I am a programmer and semi good ar
 
 Languages: Rust, Go, [Nexus](https://github.com/Isible/nexus), Typescript, Java, Kotlin, Python
 
-Libraries/frameworks: SDL2, Qwik. I write my own frameworks ;)
+Libraries/frameworks: SDL2, Qwik. I write my own libraries ;)
 
 # My projects
 
