@@ -6,7 +6,6 @@ Interested in Compiler, Build Tools, IDEs
 - Rust
 - [Nexus](https://github.com/Isible/nexus)
 - Go
-- C
 - Kotlin/Java
 
 ## Projects:
