@@ -7,6 +7,8 @@ Interested in Compiler, Build Tools, IDEs
 - [Nexus](https://github.com/Isible/nexus)
 - Go
 - Kotlin/Java
+- Typescript
+- Python
 
 ## Projects:
 
