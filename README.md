@@ -4,10 +4,10 @@ Interested in Compiler, Build Tools, IDEs
 
 ## Languages I use:
 - Rust
-- [Nexus](https://github.com/Isible/nexus)
-- Go
-- Kotlin/Java
+- Java
 - C
+- Go
+- ~~[Nexus](https://github.com/Isible/nexus)~~
 
 ## Projects:
 
