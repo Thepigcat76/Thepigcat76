@@ -14,3 +14,7 @@ Interested in Compiler, Build Tools, IDEs
 - [Nexus](https://github.com/Isible/nexus)
 - [Surtur](https://github.com/Thepigcat/surtur)
 - [Citadel](https://github.com/Isible/citadel)
+
+---
+
+MINT-Akademie-2025
