@@ -17,4 +17,4 @@ Interested in Compiler, Build Tools, IDEs
 
 ---
 
-MINT-Akademie-2025
+MINT-Akademie-2025-BP
