@@ -6,4 +6,4 @@ My compiler: [Goo](https://github.com/Thepigcat76/goo)
 
 My 2d multiplayer game: [Cozy-Wrath](https://github.com/Thepigcat76/le-game/tree/multiplayer)
 
-MINT-Akademie-2026-BP
+_MINT-Akademie-2026-BP_
